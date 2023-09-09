@@ -1,3 +1,8 @@
+# DESCRIPCIÓN
+
+Modelo de ML utilizado - Regresión logística 
+
+*agregar descripcion*
 
 # ARCHIVOS 
 Archivo de dataset - heart_2020_cleaned.csv
