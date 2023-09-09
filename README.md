@@ -16,5 +16,5 @@ Momento de Retroalimentación: Módulo 1 Construcción de un modelo estadístico
 Archivo - ./Retroalimentacion3
 
 
-*Todas las carpetas contienen las entregas actualizadas de acuerdo a las correciones dadas, en el readme de cada uno vienen mas detalles de cada una de estas
+*Todas las carpetas contienen las entregas actualizadas de acuerdo a las correciones dadas, en el readme de cada uno vienen mas detalles de cada una de estas*
 
