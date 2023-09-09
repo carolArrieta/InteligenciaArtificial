@@ -4,6 +4,10 @@ Modelo de ML utilizado - Regresión logística
 
 *agregar descripcion*
 
+Dataset utilizado - Indicador de enferemedades del corazón
+
+*agregar descripcion*
+
 # ARCHIVOS 
 Archivo de dataset - heart_2020_cleaned.csv
 
